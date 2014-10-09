@@ -1,0 +1,1 @@
+Haci önce sql scriptini çalistir. sonra ver ayari :))
