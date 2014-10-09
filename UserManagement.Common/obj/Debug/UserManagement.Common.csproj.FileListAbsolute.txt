@@ -1,0 +1,5 @@
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Common\bin\Debug\UserManagement.Common.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Common\bin\Debug\UserManagement.Common.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Common\obj\Debug\UserManagement.Common.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Common\obj\Debug\UserManagement.Common.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Common\obj\Debug\UserManagement.Common.pdb

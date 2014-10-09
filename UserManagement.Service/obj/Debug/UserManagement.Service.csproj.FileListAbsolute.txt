@@ -1,0 +1,13 @@
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\UserManagement.Service.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\UserManagement.Service.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\obj\Debug\UserManagement.Service.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\obj\Debug\UserManagement.Service.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\obj\Debug\UserManagement.Service.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\UserManagement.Data.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\UserManagement.Model.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\UserManagement.Common.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\UserManagement.Data.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\UserManagement.Model.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\UserManagement.Common.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Service\bin\Debug\EntityFramework.xml

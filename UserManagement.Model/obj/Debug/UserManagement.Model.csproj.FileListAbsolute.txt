@@ -1,0 +1,10 @@
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\bin\Debug\UserManagement.Model.dll.config
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\bin\Debug\UserManagement.Model.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\bin\Debug\UserManagement.Model.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\obj\Debug\UserManagement.Model.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\obj\Debug\UserManagement.Model.dll
+C:\Users\Abdullah\Documents\Visual Studio 2013\Projects\UserManagement\UserManagement.Model\obj\Debug\UserManagement.Model.pdb
